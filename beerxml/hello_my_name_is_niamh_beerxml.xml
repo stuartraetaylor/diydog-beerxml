@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RECIPES>
+    <RECIPE>
+        <NAME>Hello My Name Is Niamh</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BATCH_SIZE>20.0</BATCH_SIZE>
+        <BOIL_SIZE>25.0</BOIL_SIZE>
+        <BOIL_TIME>60</BOIL_TIME>
+        <EFFICIENCY>70</EFFICIENCY>
+        <HOPS>
+            <HOP>
+                <NAME>Simcoe</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>0.0</ALPHA>
+                <AMOUNT>0.024</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>90</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Chinook</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>0.0</ALPHA>
+                <AMOUNT>0.02</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>30</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Simcoe</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>0.0</ALPHA>
+                <AMOUNT>0.03</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Elderflower Concentrate</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>0.0</ALPHA>
+                <AMOUNT>0.5</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Citra</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>0.0</ALPHA>
+                <AMOUNT>0.04</AMOUNT>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Chinook</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>0.0</ALPHA>
+                <AMOUNT>0.04</AMOUNT>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Simcoe</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>0.0</ALPHA>
+                <AMOUNT>0.04</AMOUNT>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Centennial</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>0.0</ALPHA>
+                <AMOUNT>0.02</AMOUNT>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+        </HOPS>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>Pale Ale</NAME>
+                <VERSION>0</VERSION>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>5.52</AMOUNT>
+                <YIELD>0</YIELD>
+                <COLOR>0.0</COLOR>
+                <COARSE_FINE_DIFF>0.0</COARSE_FINE_DIFF>
+                <MOISTURE>0</MOISTURE>
+                <DIASTATIC_POWER>0</DIASTATIC_POWER>
+                <PROTEIN>0.0</PROTEIN>
+                <MAX_IN_BATCH>0</MAX_IN_BATCH>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
+                <POTENTIAL>0.0</POTENTIAL>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Caramalt</NAME>
+                <VERSION>0</VERSION>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>0.12</AMOUNT>
+                <YIELD>0</YIELD>
+                <COLOR>0.0</COLOR>
+                <COARSE_FINE_DIFF>0.0</COARSE_FINE_DIFF>
+                <MOISTURE>0</MOISTURE>
+                <DIASTATIC_POWER>0</DIASTATIC_POWER>
+                <PROTEIN>0.0</PROTEIN>
+                <MAX_IN_BATCH>0</MAX_IN_BATCH>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
+                <POTENTIAL>0.0</POTENTIAL>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <YEASTS>
+            <YEAST>
+                <NAME>Wyeast 1272 American Ale II™</NAME>
+                <VERSION>0</VERSION>
+                <AMOUNT>0.0</AMOUNT>
+                <MIN_TEMPERATURE>0</MIN_TEMPERATURE>
+                <MAX_TEMPERATURE>0.0</MAX_TEMPERATURE>
+                <ATTENUATION>0</ATTENUATION>
+                <MAX_REUSE>0</MAX_REUSE>
+                <TIMES_CULTURED>0</TIMES_CULTURED>
+            </YEAST>
+        </YEASTS>
+        <MASH>
+            <NAME>Mash</NAME>
+            <VERSION>0</VERSION>
+            <GRAIN_TEMP>0.0</GRAIN_TEMP>
+            <TUN_TEMP>0.0</TUN_TEMP>
+            <SPARGE_TEMP>0.0</SPARGE_TEMP>
+            <PH>0.0</PH>
+            <TUN_WEIGHT>0.0</TUN_WEIGHT>
+            <TUN_SPECIFIC_HEAT>0.0</TUN_SPECIFIC_HEAT>
+            <DISPLAY_TUN_TEMP>0</DISPLAY_TUN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <VERSION>0</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TIME>65</STEP_TIME>
+                    <STEP_TEMP>66</STEP_TEMP>
+                    <RAMP_TIME>0</RAMP_TIME>
+                    <END_TEMP>0</END_TEMP>
+                    <WATER_GRAIN_RATIO>0.0</WATER_GRAIN_RATIO>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NOTES xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Brewdog Hello My Name Is Niamh
+
+Tagline: Elderflower Infused Double IPA.
+First brewed: 2017
+Description:
+Brewed exclusively for the Irish market, this Hello My Name brew features a twist of flavour inspired by Ireland.
+
+Food pairing:
+[Grilled sea bass fillet, Sushi maki, Summer fruit pudding]
+
+Brewers tips:
+Save yourself a lot of hassle and buy the Elderflower as a concentrate or cordial. Collecting elderberries ranks low on the FPES (fruit picking enjoyment scale), can't imagine the flower picking is much better.
+
+Contributed by: John Jenkman &lt;johnjenkman&gt;
+PunkAPI id: 290
+</NOTES>
+        <TASTE_RATING>0</TASTE_RATING>
+        <OG>0.0</OG>
+        <FG>0.0</FG>
+        <CARBONATION>0.0</CARBONATION>
+        <FERMENTATION_STAGES>0</FERMENTATION_STAGES>
+        <PRIMARY_AGE>0</PRIMARY_AGE>
+        <PRIMARY_TEMP>19</PRIMARY_TEMP>
+        <SECONDARY_AGE>0</SECONDARY_AGE>
+        <SECONDARY_TEMP>0</SECONDARY_TEMP>
+        <TERTIARY_AGE>0</TERTIARY_AGE>
+        <AGE>0</AGE>
+        <AGE_TEMP>0.0</AGE_TEMP>
+        <EST_OG>1070</EST_OG>
+        <EST_FG>1009</EST_FG>
+        <EST_COLOR>8</EST_COLOR>
+        <IBU>70</IBU>
+        <DISPLAY_BATCH_SIZE>20 L</DISPLAY_BATCH_SIZE>
+        <DISPLAY_BOIL_SIZE>25 L</DISPLAY_BOIL_SIZE>
+        <DISPLAY_PRIMARY_TEMP>19 C</DISPLAY_PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>
