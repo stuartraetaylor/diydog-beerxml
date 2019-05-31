@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RECIPES>
+    <RECIPE>
+        <NAME>Zephyr</NAME>
+        <VERSION>1</VERSION>
+        <TYPE>All Grain</TYPE>
+        <BATCH_SIZE>20.0</BATCH_SIZE>
+        <BOIL_SIZE>25.0</BOIL_SIZE>
+        <BOIL_TIME>60</BOIL_TIME>
+        <EFFICIENCY>75</EFFICIENCY>
+        <HOPS>
+            <HOP>
+                <NAME>Columbus Extract</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>0.0</ALPHA>
+                <AMOUNT>0.031</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Columbus</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>15.0</ALPHA>
+                <AMOUNT>0.0195</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>60</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Columbus</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>15.0</ALPHA>
+                <AMOUNT>0.0195</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>15</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Centennial</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>11.0</ALPHA>
+                <AMOUNT>0.0195</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>15</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Simcoe</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>13.0</ALPHA>
+                <AMOUNT>0.0195</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>15</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Columbus</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>15.0</ALPHA>
+                <AMOUNT>0.0195</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Centennial</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>11.0</ALPHA>
+                <AMOUNT>0.0195</AMOUNT>
+                <USE>Boil</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Centennial</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>11.0</ALPHA>
+                <AMOUNT>0.1155</AMOUNT>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Columbus</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>15.0</ALPHA>
+                <AMOUNT>0.096</AMOUNT>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Simcoe</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>13.0</ALPHA>
+                <AMOUNT>0.096</AMOUNT>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+            <HOP>
+                <NAME>Amarillo</NAME>
+                <VERSION>0</VERSION>
+                <ALPHA>9.5</ALPHA>
+                <AMOUNT>0.077</AMOUNT>
+                <USE>Dry Hop</USE>
+                <TIME>0</TIME>
+                <FORM>pellet</FORM>
+                <BETA>0.0</BETA>
+                <HSI>0</HSI>
+            </HOP>
+        </HOPS>
+        <FERMENTABLES>
+            <FERMENTABLE>
+                <NAME>Extra Pale</NAME>
+                <VERSION>0</VERSION>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>6.3</AMOUNT>
+                <YIELD>0</YIELD>
+                <COLOR>0.0</COLOR>
+                <COARSE_FINE_DIFF>0.0</COARSE_FINE_DIFF>
+                <MOISTURE>0</MOISTURE>
+                <DIASTATIC_POWER>0</DIASTATIC_POWER>
+                <PROTEIN>0.0</PROTEIN>
+                <MAX_IN_BATCH>0</MAX_IN_BATCH>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
+                <POTENTIAL>0.0</POTENTIAL>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Caramalt</NAME>
+                <VERSION>0</VERSION>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>0.38</AMOUNT>
+                <YIELD>0</YIELD>
+                <COLOR>0.0</COLOR>
+                <COARSE_FINE_DIFF>0.0</COARSE_FINE_DIFF>
+                <MOISTURE>0</MOISTURE>
+                <DIASTATIC_POWER>0</DIASTATIC_POWER>
+                <PROTEIN>0.0</PROTEIN>
+                <MAX_IN_BATCH>0</MAX_IN_BATCH>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
+                <POTENTIAL>0.0</POTENTIAL>
+            </FERMENTABLE>
+            <FERMENTABLE>
+                <NAME>Crystal 150</NAME>
+                <VERSION>0</VERSION>
+                <TYPE>Grain</TYPE>
+                <AMOUNT>0.29</AMOUNT>
+                <YIELD>0</YIELD>
+                <COLOR>0.0</COLOR>
+                <COARSE_FINE_DIFF>0.0</COARSE_FINE_DIFF>
+                <MOISTURE>0</MOISTURE>
+                <DIASTATIC_POWER>0</DIASTATIC_POWER>
+                <PROTEIN>0.0</PROTEIN>
+                <MAX_IN_BATCH>0</MAX_IN_BATCH>
+                <IBU_GAL_PER_LB>0</IBU_GAL_PER_LB>
+                <POTENTIAL>0.0</POTENTIAL>
+            </FERMENTABLE>
+        </FERMENTABLES>
+        <YEASTS>
+            <YEAST>
+                <NAME>American Ale II</NAME>
+                <VERSION>0</VERSION>
+                <FORM>Liquid</FORM>
+                <AMOUNT>0.1</AMOUNT>
+                <LABORATORY>Wyeast</LABORATORY>
+                <PRODUCT_ID>1272</PRODUCT_ID>
+                <MIN_TEMPERATURE>60</MIN_TEMPERATURE>
+                <MAX_TEMPERATURE>72.0</MAX_TEMPERATURE>
+                <FLOCCULATION>Medium</FLOCCULATION>
+                <ATTENUATION>74</ATTENUATION>
+                <MAX_REUSE>0</MAX_REUSE>
+                <TIMES_CULTURED>0</TIMES_CULTURED>
+            </YEAST>
+        </YEASTS>
+        <STYLE>
+            <NAME>Generic Ale Profile</NAME>
+            <VERSION>0</VERSION>
+            <CATEGORY_NUMBER>0</CATEGORY_NUMBER>
+            <TYPE>Ale</TYPE>
+            <OG_MIN>1.022</OG_MIN>
+            <OG_MAX>1.092</OG_MAX>
+            <FG_MIN>1.006</FG_MIN>
+            <FG_MAX>1.024</FG_MAX>
+            <IBU_MIN>18</IBU_MIN>
+            <IBU_MAX>88</IBU_MAX>
+            <COLOR_MIN>2</COLOR_MIN>
+            <COLOR_MAX>22</COLOR_MAX>
+            <CARB_MIN>0.0</CARB_MIN>
+            <CARB_MAX>0.0</CARB_MAX>
+            <ABV_MAX>9.8</ABV_MAX>
+            <ABV_MIN>2.8</ABV_MIN>
+        </STYLE>
+        <MASH>
+            <NAME>Mash</NAME>
+            <VERSION>0</VERSION>
+            <GRAIN_TEMP>0.0</GRAIN_TEMP>
+            <TUN_TEMP>0.0</TUN_TEMP>
+            <SPARGE_TEMP>0.0</SPARGE_TEMP>
+            <PH>0.0</PH>
+            <TUN_WEIGHT>0.0</TUN_WEIGHT>
+            <TUN_SPECIFIC_HEAT>0.0</TUN_SPECIFIC_HEAT>
+            <DISPLAY_TUN_TEMP>0</DISPLAY_TUN_TEMP>
+            <MASH_STEPS>
+                <MASH_STEP>
+                    <VERSION>0</VERSION>
+                    <TYPE>Infusion</TYPE>
+                    <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
+                    <STEP_TIME>75</STEP_TIME>
+                    <STEP_TEMP>65</STEP_TEMP>
+                    <RAMP_TIME>0</RAMP_TIME>
+                    <END_TEMP>0</END_TEMP>
+                    <WATER_GRAIN_RATIO>0.0</WATER_GRAIN_RATIO>
+                </MASH_STEP>
+            </MASH_STEPS>
+        </MASH>
+        <NOTES xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Brewdog Zephyr
+
+Tagline: There’s A Storm Brewing.
+First brewed: 10/2008
+Description:
+A 9.2% Double IPA aged for 21 months in a 1965 Invergordon cask with 30 kg of fresh highland strawberries. This beer is a riot of whisky, caramel and strawberry, all tempered by a toe curling bitterness enducing rapture in all who taste it. Who needs champagne?
+
+Food pairing:
+[Poached eggs and smoked salmon, Salt and pepper squid, Key Lime Pie]
+
+Brewers tips:
+Rack into a secondary fermenter and add your strawberries. Use a blow-off rather than an airlock as the fermentation can get pretty wild as the yeast starts using the sugar from the strawberries.
+
+Contributed by: Sam Mason &lt;samjbmason&gt;
+PunkAPI id: 37
+</NOTES>
+        <TASTE_RATING>0</TASTE_RATING>
+        <OG>0.0</OG>
+        <FG>0.0</FG>
+        <CARBONATION>0.0</CARBONATION>
+        <FERMENTATION_STAGES>0</FERMENTATION_STAGES>
+        <PRIMARY_AGE>0</PRIMARY_AGE>
+        <PRIMARY_TEMP>21</PRIMARY_TEMP>
+        <SECONDARY_AGE>0</SECONDARY_AGE>
+        <SECONDARY_TEMP>0</SECONDARY_TEMP>
+        <TERTIARY_AGE>0</TERTIARY_AGE>
+        <AGE>0</AGE>
+        <AGE_TEMP>0.0</AGE_TEMP>
+        <EST_OG>1087</EST_OG>
+        <EST_FG>1016</EST_FG>
+        <EST_COLOR>20</EST_COLOR>
+        <IBU>125</IBU>
+        <DISPLAY_BATCH_SIZE>20 L</DISPLAY_BATCH_SIZE>
+        <DISPLAY_BOIL_SIZE>25 L</DISPLAY_BOIL_SIZE>
+        <DISPLAY_PRIMARY_TEMP>21 C</DISPLAY_PRIMARY_TEMP>
+    </RECIPE>
+</RECIPES>
