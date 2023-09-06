@@ -11,7 +11,7 @@
         <HOPS>
             <HOP>
                 <NAME>Centennial</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>11.0</ALPHA>
                 <AMOUNT>0.0125</AMOUNT>
                 <USE>Boil</USE>
@@ -22,7 +22,7 @@
             </HOP>
             <HOP>
                 <NAME>Simcoe</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>13.0</ALPHA>
                 <AMOUNT>0.00625</AMOUNT>
                 <USE>Boil</USE>
@@ -33,7 +33,7 @@
             </HOP>
             <HOP>
                 <NAME>Cascade</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>5.8</ALPHA>
                 <AMOUNT>0.0075</AMOUNT>
                 <USE>Boil</USE>
@@ -44,7 +44,7 @@
             </HOP>
             <HOP>
                 <NAME>Amarillo</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>9.5</ALPHA>
                 <AMOUNT>0.0075</AMOUNT>
                 <USE>Boil</USE>
@@ -55,7 +55,7 @@
             </HOP>
             <HOP>
                 <NAME>Simcoe</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>13.0</ALPHA>
                 <AMOUNT>0.00625</AMOUNT>
                 <USE>Boil</USE>
@@ -66,7 +66,7 @@
             </HOP>
             <HOP>
                 <NAME>Cascade</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>5.8</ALPHA>
                 <AMOUNT>0.0075</AMOUNT>
                 <USE>Boil</USE>
@@ -77,7 +77,7 @@
             </HOP>
             <HOP>
                 <NAME>Amarillo</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>9.5</ALPHA>
                 <AMOUNT>0.0075</AMOUNT>
                 <USE>Boil</USE>
@@ -88,7 +88,7 @@
             </HOP>
             <HOP>
                 <NAME>Simcoe</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>13.0</ALPHA>
                 <AMOUNT>0.025</AMOUNT>
                 <USE>Dry Hop</USE>
@@ -99,7 +99,7 @@
             </HOP>
             <HOP>
                 <NAME>Cascade</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>5.8</ALPHA>
                 <AMOUNT>0.025</AMOUNT>
                 <USE>Dry Hop</USE>
@@ -110,7 +110,7 @@
             </HOP>
             <HOP>
                 <NAME>Centennial</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>11.0</ALPHA>
                 <AMOUNT>0.025</AMOUNT>
                 <USE>Dry Hop</USE>
@@ -121,7 +121,7 @@
             </HOP>
             <HOP>
                 <NAME>Amarillo</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>9.5</ALPHA>
                 <AMOUNT>0.025</AMOUNT>
                 <USE>Dry Hop</USE>
@@ -134,7 +134,7 @@
         <FERMENTABLES>
             <FERMENTABLE>
                 <NAME>Extra Pale</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>3.38</AMOUNT>
                 <YIELD>0</YIELD>
@@ -149,7 +149,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <NAME>Crystal 150</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>0.13</AMOUNT>
                 <YIELD>0</YIELD>
@@ -164,7 +164,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <NAME>Munich</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>0.38</AMOUNT>
                 <YIELD>0</YIELD>
@@ -179,7 +179,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <NAME>Rye</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>0.25</AMOUNT>
                 <YIELD>0</YIELD>
@@ -196,7 +196,7 @@
         <YEASTS>
             <YEAST>
                 <NAME>American Ale</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <FORM>Liquid</FORM>
                 <AMOUNT>0.1</AMOUNT>
                 <LABORATORY>Wyeast</LABORATORY>
@@ -211,7 +211,7 @@
         </YEASTS>
         <STYLE>
             <NAME>Generic Ale Profile</NAME>
-            <VERSION>0</VERSION>
+            <VERSION>1</VERSION>
             <CATEGORY_NUMBER>0</CATEGORY_NUMBER>
             <TYPE>Ale</TYPE>
             <OG_MIN>1.022</OG_MIN>
@@ -229,7 +229,7 @@
         </STYLE>
         <MASH>
             <NAME>Mash</NAME>
-            <VERSION>0</VERSION>
+            <VERSION>1</VERSION>
             <GRAIN_TEMP>0.0</GRAIN_TEMP>
             <TUN_TEMP>0.0</TUN_TEMP>
             <SPARGE_TEMP>0.0</SPARGE_TEMP>
@@ -239,7 +239,7 @@
             <DISPLAY_TUN_TEMP>0</DISPLAY_TUN_TEMP>
             <MASH_STEPS>
                 <MASH_STEP>
-                    <VERSION>0</VERSION>
+                    <VERSION>1</VERSION>
                     <TYPE>Infusion</TYPE>
                     <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
                     <STEP_TIME>75</STEP_TIME>

@@ -11,7 +11,7 @@
         <HOPS>
             <HOP>
                 <NAME>Chinook</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>13.0</ALPHA>
                 <AMOUNT>0.05</AMOUNT>
                 <USE>Boil</USE>
@@ -22,7 +22,7 @@
             </HOP>
             <HOP>
                 <NAME>Cascade</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>5.8</ALPHA>
                 <AMOUNT>0.025</AMOUNT>
                 <USE>Boil</USE>
@@ -33,7 +33,7 @@
             </HOP>
             <HOP>
                 <NAME>Fuggles</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>3.8</ALPHA>
                 <AMOUNT>0.025</AMOUNT>
                 <USE>Boil</USE>
@@ -44,7 +44,7 @@
             </HOP>
             <HOP>
                 <NAME>Coffee</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>0.0</ALPHA>
                 <AMOUNT>0.0125</AMOUNT>
                 <USE>Boil</USE>
@@ -55,7 +55,7 @@
             </HOP>
             <HOP>
                 <NAME>Fuggles</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>3.8</ALPHA>
                 <AMOUNT>0.025</AMOUNT>
                 <USE>Boil</USE>
@@ -66,7 +66,7 @@
             </HOP>
             <HOP>
                 <NAME>Coffee</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>0.0</ALPHA>
                 <AMOUNT>0.0125</AMOUNT>
                 <USE>Boil</USE>
@@ -79,7 +79,7 @@
         <FERMENTABLES>
             <FERMENTABLE>
                 <NAME>Extra Pale</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>7.5</AMOUNT>
                 <YIELD>0</YIELD>
@@ -94,7 +94,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <NAME>Wheat</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>0.5</AMOUNT>
                 <YIELD>0</YIELD>
@@ -109,7 +109,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <NAME>Flaked Oats</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>1.38</AMOUNT>
                 <YIELD>0</YIELD>
@@ -124,7 +124,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <NAME>Dark Crystal</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>0.88</AMOUNT>
                 <YIELD>0</YIELD>
@@ -139,7 +139,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <NAME>Carafa Special Malt Type 1</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>0.63</AMOUNT>
                 <YIELD>0</YIELD>
@@ -154,7 +154,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <NAME>Carafa Special Malt Type 3</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>0.63</AMOUNT>
                 <YIELD>0</YIELD>
@@ -169,7 +169,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <NAME>Rye</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>0.75</AMOUNT>
                 <YIELD>0</YIELD>
@@ -184,7 +184,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <NAME>Honey</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>0.5</AMOUNT>
                 <YIELD>0</YIELD>
@@ -201,7 +201,7 @@
         <YEASTS>
             <YEAST>
                 <NAME>American Ale</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <FORM>Liquid</FORM>
                 <AMOUNT>0.1</AMOUNT>
                 <LABORATORY>Wyeast</LABORATORY>
@@ -216,7 +216,7 @@
         </YEASTS>
         <STYLE>
             <NAME>Generic Ale Profile</NAME>
-            <VERSION>0</VERSION>
+            <VERSION>1</VERSION>
             <CATEGORY_NUMBER>0</CATEGORY_NUMBER>
             <TYPE>Ale</TYPE>
             <OG_MIN>1.022</OG_MIN>
@@ -234,7 +234,7 @@
         </STYLE>
         <MASH>
             <NAME>Mash</NAME>
-            <VERSION>0</VERSION>
+            <VERSION>1</VERSION>
             <GRAIN_TEMP>0.0</GRAIN_TEMP>
             <TUN_TEMP>0.0</TUN_TEMP>
             <SPARGE_TEMP>0.0</SPARGE_TEMP>
@@ -244,7 +244,7 @@
             <DISPLAY_TUN_TEMP>0</DISPLAY_TUN_TEMP>
             <MASH_STEPS>
                 <MASH_STEP>
-                    <VERSION>0</VERSION>
+                    <VERSION>1</VERSION>
                     <TYPE>Infusion</TYPE>
                     <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
                     <STEP_TIME>60</STEP_TIME>

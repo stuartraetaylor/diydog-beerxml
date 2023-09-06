@@ -11,7 +11,7 @@
         <HOPS>
             <HOP>
                 <NAME>Magnum (US)</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>12.0</ALPHA>
                 <AMOUNT>0.01</AMOUNT>
                 <USE>Boil</USE>
@@ -22,7 +22,7 @@
             </HOP>
             <HOP>
                 <NAME>Sterling</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>7.5</ALPHA>
                 <AMOUNT>0.02</AMOUNT>
                 <USE>Boil</USE>
@@ -33,7 +33,7 @@
             </HOP>
             <HOP>
                 <NAME>Sterling</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <ALPHA>7.5</ALPHA>
                 <AMOUNT>0.02</AMOUNT>
                 <USE>Boil</USE>
@@ -46,7 +46,7 @@
         <FERMENTABLES>
             <FERMENTABLE>
                 <NAME>Pilsner</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>3.36</AMOUNT>
                 <YIELD>0</YIELD>
@@ -61,7 +61,7 @@
             </FERMENTABLE>
             <FERMENTABLE>
                 <NAME>Pale Ale</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <TYPE>Grain</TYPE>
                 <AMOUNT>1.2</AMOUNT>
                 <YIELD>0</YIELD>
@@ -78,7 +78,7 @@
         <YEASTS>
             <YEAST>
                 <NAME>Saflager W-34/70</NAME>
-                <VERSION>0</VERSION>
+                <VERSION>1</VERSION>
                 <AMOUNT>0.1</AMOUNT>
                 <MIN_TEMPERATURE>0</MIN_TEMPERATURE>
                 <MAX_TEMPERATURE>0.0</MAX_TEMPERATURE>
@@ -89,7 +89,7 @@
         </YEASTS>
         <STYLE>
             <NAME>Generic Ale Profile</NAME>
-            <VERSION>0</VERSION>
+            <VERSION>1</VERSION>
             <CATEGORY_NUMBER>0</CATEGORY_NUMBER>
             <TYPE>Ale</TYPE>
             <OG_MIN>1.022</OG_MIN>
@@ -107,7 +107,7 @@
         </STYLE>
         <MASH>
             <NAME>Mash</NAME>
-            <VERSION>0</VERSION>
+            <VERSION>1</VERSION>
             <GRAIN_TEMP>0.0</GRAIN_TEMP>
             <TUN_TEMP>0.0</TUN_TEMP>
             <SPARGE_TEMP>0.0</SPARGE_TEMP>
@@ -117,7 +117,7 @@
             <DISPLAY_TUN_TEMP>0</DISPLAY_TUN_TEMP>
             <MASH_STEPS>
                 <MASH_STEP>
-                    <VERSION>0</VERSION>
+                    <VERSION>1</VERSION>
                     <TYPE>Infusion</TYPE>
                     <INFUSE_AMOUNT>0.0</INFUSE_AMOUNT>
                     <STEP_TIME>45</STEP_TIME>
